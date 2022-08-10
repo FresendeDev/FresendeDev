@@ -52,5 +52,5 @@
 - Sublime Text 2
 - Visual Studio Code
 
-# Backend Python - em curso - Previsão conclusão 01/2023
+# Backend Python - em curso
 

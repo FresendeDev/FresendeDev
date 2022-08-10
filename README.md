@@ -30,7 +30,7 @@
 - JQuery
 - Gulp
 - Webpack
--- Framework React - em curso
+- *Framework React - em curso
 
 ## Desgn
 - Alinhamento
@@ -52,7 +52,5 @@
 - Sublime Text 2
 - Visual Studio Code
 
-
-
-## backend Python - em curso
+# backend Python - em curso - Previsão conclusão 01/2023
 

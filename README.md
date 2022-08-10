@@ -30,7 +30,7 @@
 - JQuery
 - Gulp
 - Webpack
-# Framework React - em curso
+-- Framework React - em curso
 
 ## Desgn
 - Alinhamento

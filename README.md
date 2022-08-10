@@ -30,6 +30,7 @@
 - JQuery
 - Gulp
 - Webpack
+# Framework React - em curso
 
 ## Desgn
 - Alinhamento
@@ -51,7 +52,7 @@
 - Sublime Text 2
 - Visual Studio Code
 
-## framework react - em curso
+
 
 ## backend Python - em curso
 

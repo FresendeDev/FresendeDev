@@ -32,6 +32,7 @@
 - JQuery
 - Gulp
 - Webpack
+- Babel
 - *Framework React - em curso
 
 ## Desgn

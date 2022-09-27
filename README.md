@@ -24,6 +24,7 @@
 - Animations
 
 ## JS - JavaScript
+- React
 - Variables
 - Functions
 - Events
@@ -33,7 +34,6 @@
 - Gulp
 - Webpack
 - Babel
-- *Framework React - em curso
 
 ## Desgn
 - Alinhamento

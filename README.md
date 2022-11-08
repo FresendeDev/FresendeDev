@@ -24,6 +24,7 @@
 - Animations
 
 ## JS - JavaScript
+- Vue
 - React
 - Variables
 - Functions
